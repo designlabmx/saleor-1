@@ -46,6 +46,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Add mypy checks - #5150 by @IKarbowiak
 - Fixed serialization error on weight fields when running `loaddata` and `dumpdb` - #5005 by @NyanKiyoshi
 - Add warehouse model - #4986 by @szewczykmira
+- Assign quantity by warehouse - #4986 by @szewczykmira
 
 ## 2.9.0
 
